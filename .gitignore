@@ -1,0 +1,12 @@
+# Excel temporary / lock files
+~$*.xlsx
+~$*.xlsm
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Local Power Query / demo source variants
+local-data/
