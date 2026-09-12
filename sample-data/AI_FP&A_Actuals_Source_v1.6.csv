@@ -1,0 +1,215 @@
+﻿Period End,Account Code,Account Name,Department,Data Type,Source Amount ($mm),Source System,Import Batch
+2026-01-31,1000,Cash & Cash Equivalents,Corporate,BS Snapshot,3.404167,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-01-31,1100,Accounts Receivable,Corporate,BS Snapshot,2.130479,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-01-31,1200,Other Current Assets,Corporate,BS Snapshot,0.49,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-01-31,1500,"PP&E, Net",Corporate,BS Snapshot,1.770833,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-01-31,2000,Accounts Payable,Corporate,BS Snapshot,-0.345913,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-01-31,2100,Accrued Expenses,Corporate,BS Snapshot,-0.8815,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-01-31,2200,Deferred Revenue,Corporate,BS Snapshot,-1.725,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-01-31,2500,Debt,Corporate,BS Snapshot,-2.866667,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-01-31,3000,Equity,Corporate,BS Snapshot,-2.095566,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-01-31,4000,Subscription Revenue,Sales,P&L Activity,-1.42,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-01-31,5000,Hosting & Service Delivery,Operations,P&L Activity,0.355,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-01-31,6100,Sales & Marketing,Sales & Marketing,P&L Activity,0.426,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-01-31,6200,Research & Development,Product & Engineering,P&L Activity,0.2556,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-01-31,6300,General & Administrative,Corporate,P&L Activity,0.213,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-01-31,7000,Depreciation & Amortization,Corporate,P&L Activity,0.0284,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-01-31,7100,Interest Expense,Corporate,P&L Activity,0.0213,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-01-31,7200,Income Taxes,Corporate,P&L Activity,0.030175,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,1000,Cash & Cash Equivalents,Corporate,BS Snapshot,3.458333,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,1100,Accounts Receivable,Corporate,BS Snapshot,2.160959,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,1200,Other Current Assets,Corporate,BS Snapshot,0.5,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,1500,"PP&E, Net",Corporate,BS Snapshot,1.791667,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,2000,Accounts Payable,Corporate,BS Snapshot,-0.351826,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,2100,Accrued Expenses,Corporate,BS Snapshot,-0.893,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,2200,Deferred Revenue,Corporate,BS Snapshot,-1.75,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,2500,Debt,Corporate,BS Snapshot,-2.833333,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,3000,Equity,Corporate,BS Snapshot,-2.191132,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,4000,Subscription Revenue,Sales,P&L Activity,-1.46,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,5000,Hosting & Service Delivery,Operations,P&L Activity,0.365,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,6100,Sales & Marketing,Sales & Marketing,P&L Activity,0.438,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,6200,Research & Development,Product & Engineering,P&L Activity,0.2628,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,6300,General & Administrative,Corporate,P&L Activity,0.219,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,7000,Depreciation & Amortization,Corporate,P&L Activity,0.0292,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,7100,Interest Expense,Corporate,P&L Activity,0.0219,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-02-28,7200,Income Taxes,Corporate,P&L Activity,0.031025,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,1000,Cash & Cash Equivalents,Corporate,BS Snapshot,3.5125,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,1100,Accounts Receivable,Corporate,BS Snapshot,2.191438,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,1200,Other Current Assets,Corporate,BS Snapshot,0.51,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,1500,"PP&E, Net",Corporate,BS Snapshot,1.8125,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,2000,Accounts Payable,Corporate,BS Snapshot,-0.35774,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,2100,Accrued Expenses,Corporate,BS Snapshot,-0.9045,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,2200,Deferred Revenue,Corporate,BS Snapshot,-1.775,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,2500,Debt,Corporate,BS Snapshot,-2.8,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,3000,Equity,Corporate,BS Snapshot,-2.286699,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,4000,Subscription Revenue,Sales,P&L Activity,-1.5,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,5000,Hosting & Service Delivery,Operations,P&L Activity,0.375,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,6100,Sales & Marketing,Sales & Marketing,P&L Activity,0.45,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,6200,Research & Development,Product & Engineering,P&L Activity,0.27,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,6300,General & Administrative,Corporate,P&L Activity,0.225,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,7000,Depreciation & Amortization,Corporate,P&L Activity,0.03,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,7100,Interest Expense,Corporate,P&L Activity,0.0225,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-03-31,7200,Income Taxes,Corporate,P&L Activity,0.031875,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,1000,Cash & Cash Equivalents,Corporate,BS Snapshot,3.566667,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,1100,Accounts Receivable,Corporate,BS Snapshot,2.221918,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,1200,Other Current Assets,Corporate,BS Snapshot,0.52,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,1500,"PP&E, Net",Corporate,BS Snapshot,1.833333,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,2000,Accounts Payable,Corporate,BS Snapshot,-0.363653,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,2100,Accrued Expenses,Corporate,BS Snapshot,-0.916,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,2200,Deferred Revenue,Corporate,BS Snapshot,-1.8,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,2500,Debt,Corporate,BS Snapshot,-2.766667,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,3000,Equity,Corporate,BS Snapshot,-2.382265,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,4000,Subscription Revenue,Sales,P&L Activity,-1.54,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,5000,Hosting & Service Delivery,Operations,P&L Activity,0.385,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,6100,Sales & Marketing,Sales & Marketing,P&L Activity,0.462,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,6200,Research & Development,Product & Engineering,P&L Activity,0.2772,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,6300,General & Administrative,Corporate,P&L Activity,0.231,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,7000,Depreciation & Amortization,Corporate,P&L Activity,0.0308,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,7100,Interest Expense,Corporate,P&L Activity,0.0231,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-04-30,7200,Income Taxes,Corporate,P&L Activity,0.032725,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,1000,Cash & Cash Equivalents,Corporate,BS Snapshot,3.620833,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,1100,Accounts Receivable,Corporate,BS Snapshot,2.252397,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,1200,Other Current Assets,Corporate,BS Snapshot,0.53,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,1500,"PP&E, Net",Corporate,BS Snapshot,1.854167,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,2000,Accounts Payable,Corporate,BS Snapshot,-0.369566,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,2100,Accrued Expenses,Corporate,BS Snapshot,-0.9275,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,2200,Deferred Revenue,Corporate,BS Snapshot,-1.825,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,2500,Debt,Corporate,BS Snapshot,-2.733333,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,3000,Equity,Corporate,BS Snapshot,-2.477831,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,4000,Subscription Revenue,Sales,P&L Activity,-1.58,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,5000,Hosting & Service Delivery,Operations,P&L Activity,0.395,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,6100,Sales & Marketing,Sales & Marketing,P&L Activity,0.474,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,6200,Research & Development,Product & Engineering,P&L Activity,0.2844,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,6300,General & Administrative,Corporate,P&L Activity,0.237,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,7000,Depreciation & Amortization,Corporate,P&L Activity,0.0316,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,7100,Interest Expense,Corporate,P&L Activity,0.0237,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-05-31,7200,Income Taxes,Corporate,P&L Activity,0.033575,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,1000,Cash & Cash Equivalents,Corporate,BS Snapshot,3.675,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,1100,Accounts Receivable,Corporate,BS Snapshot,2.282877,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,1200,Other Current Assets,Corporate,BS Snapshot,0.54,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,1500,"PP&E, Net",Corporate,BS Snapshot,1.875,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,2000,Accounts Payable,Corporate,BS Snapshot,-0.375479,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,2100,Accrued Expenses,Corporate,BS Snapshot,-0.939,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,2200,Deferred Revenue,Corporate,BS Snapshot,-1.85,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,2500,Debt,Corporate,BS Snapshot,-2.7,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,3000,Equity,Corporate,BS Snapshot,-2.573397,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,4000,Subscription Revenue,Sales,P&L Activity,-1.62,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,5000,Hosting & Service Delivery,Operations,P&L Activity,0.405,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,6100,Sales & Marketing,Sales & Marketing,P&L Activity,0.486,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,6200,Research & Development,Product & Engineering,P&L Activity,0.2916,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,6300,General & Administrative,Corporate,P&L Activity,0.243,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,7000,Depreciation & Amortization,Corporate,P&L Activity,0.0324,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,7100,Interest Expense,Corporate,P&L Activity,0.0243,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-06-30,7200,Income Taxes,Corporate,P&L Activity,0.034425,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,1000,Cash & Cash Equivalents,Corporate,BS Snapshot,3.729167,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,1100,Accounts Receivable,Corporate,BS Snapshot,2.313356,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,1200,Other Current Assets,Corporate,BS Snapshot,0.55,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,1500,"PP&E, Net",Corporate,BS Snapshot,1.895833,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,2000,Accounts Payable,Corporate,BS Snapshot,-0.381393,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,2100,Accrued Expenses,Corporate,BS Snapshot,-0.9505,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,2200,Deferred Revenue,Corporate,BS Snapshot,-1.875,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,2500,Debt,Corporate,BS Snapshot,-2.666667,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,3000,Equity,Corporate,BS Snapshot,-2.668963,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,4000,Subscription Revenue,Sales,P&L Activity,-1.66,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,5000,Hosting & Service Delivery,Operations,P&L Activity,0.415,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,6100,Sales & Marketing,Sales & Marketing,P&L Activity,0.498,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,6200,Research & Development,Product & Engineering,P&L Activity,0.2988,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,6300,General & Administrative,Corporate,P&L Activity,0.249,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,7000,Depreciation & Amortization,Corporate,P&L Activity,0.0332,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,7100,Interest Expense,Corporate,P&L Activity,0.0249,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-07-31,7200,Income Taxes,Corporate,P&L Activity,0.035275,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,1000,Cash & Cash Equivalents,Corporate,BS Snapshot,3.783333,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,1100,Accounts Receivable,Corporate,BS Snapshot,2.343836,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,1200,Other Current Assets,Corporate,BS Snapshot,0.56,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,1500,"PP&E, Net",Corporate,BS Snapshot,1.916667,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,2000,Accounts Payable,Corporate,BS Snapshot,-0.387306,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,2100,Accrued Expenses,Corporate,BS Snapshot,-0.962,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,2200,Deferred Revenue,Corporate,BS Snapshot,-1.9,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,2500,Debt,Corporate,BS Snapshot,-2.633333,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,3000,Equity,Corporate,BS Snapshot,-2.76453,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,4000,Subscription Revenue,Sales,P&L Activity,-1.7,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,5000,Hosting & Service Delivery,Operations,P&L Activity,0.425,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,6100,Sales & Marketing,Sales & Marketing,P&L Activity,0.51,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,6200,Research & Development,Product & Engineering,P&L Activity,0.306,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,6300,General & Administrative,Corporate,P&L Activity,0.255,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,7000,Depreciation & Amortization,Corporate,P&L Activity,0.034,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,7100,Interest Expense,Corporate,P&L Activity,0.0255,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-08-31,7200,Income Taxes,Corporate,P&L Activity,0.036125,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,1000,Cash & Cash Equivalents,Corporate,BS Snapshot,3.8375,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,1100,Accounts Receivable,Corporate,BS Snapshot,2.374315,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,1200,Other Current Assets,Corporate,BS Snapshot,0.57,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,1500,"PP&E, Net",Corporate,BS Snapshot,1.9375,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,2000,Accounts Payable,Corporate,BS Snapshot,-0.393219,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,2100,Accrued Expenses,Corporate,BS Snapshot,-0.9735,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,2200,Deferred Revenue,Corporate,BS Snapshot,-1.925,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,2500,Debt,Corporate,BS Snapshot,-2.6,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,3000,Equity,Corporate,BS Snapshot,-2.860096,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,4000,Subscription Revenue,Sales,P&L Activity,-1.74,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,5000,Hosting & Service Delivery,Operations,P&L Activity,0.435,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,6100,Sales & Marketing,Sales & Marketing,P&L Activity,0.522,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,6200,Research & Development,Product & Engineering,P&L Activity,0.3132,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,6300,General & Administrative,Corporate,P&L Activity,0.261,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,7000,Depreciation & Amortization,Corporate,P&L Activity,0.0348,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,7100,Interest Expense,Corporate,P&L Activity,0.0261,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-09-30,7200,Income Taxes,Corporate,P&L Activity,0.036975,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,1000,Cash & Cash Equivalents,Corporate,BS Snapshot,3.891667,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,1100,Accounts Receivable,Corporate,BS Snapshot,2.404795,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,1200,Other Current Assets,Corporate,BS Snapshot,0.58,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,1500,"PP&E, Net",Corporate,BS Snapshot,1.958333,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,2000,Accounts Payable,Corporate,BS Snapshot,-0.399132,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,2100,Accrued Expenses,Corporate,BS Snapshot,-0.985,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,2200,Deferred Revenue,Corporate,BS Snapshot,-1.95,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,2500,Debt,Corporate,BS Snapshot,-2.566667,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,3000,Equity,Corporate,BS Snapshot,-2.955662,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,4000,Subscription Revenue,Sales,P&L Activity,-1.78,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,5000,Hosting & Service Delivery,Operations,P&L Activity,0.445,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,6100,Sales & Marketing,Sales & Marketing,P&L Activity,0.534,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,6200,Research & Development,Product & Engineering,P&L Activity,0.3204,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,6300,General & Administrative,Corporate,P&L Activity,0.267,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,7000,Depreciation & Amortization,Corporate,P&L Activity,0.0356,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,7100,Interest Expense,Corporate,P&L Activity,0.0267,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-10-31,7200,Income Taxes,Corporate,P&L Activity,0.037825,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,1000,Cash & Cash Equivalents,Corporate,BS Snapshot,3.945833,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,1100,Accounts Receivable,Corporate,BS Snapshot,2.435274,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,1200,Other Current Assets,Corporate,BS Snapshot,0.59,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,1500,"PP&E, Net",Corporate,BS Snapshot,1.979167,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,2000,Accounts Payable,Corporate,BS Snapshot,-0.405046,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,2100,Accrued Expenses,Corporate,BS Snapshot,-0.9965,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,2200,Deferred Revenue,Corporate,BS Snapshot,-1.975,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,2500,Debt,Corporate,BS Snapshot,-2.533333,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,3000,Equity,Corporate,BS Snapshot,-3.051228,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,4000,Subscription Revenue,Sales,P&L Activity,-1.92,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,5000,Hosting & Service Delivery,Operations,P&L Activity,0.48,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,6100,Sales & Marketing,Sales & Marketing,P&L Activity,0.576,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,6200,Research & Development,Product & Engineering,P&L Activity,0.3456,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,6300,General & Administrative,Corporate,P&L Activity,0.288,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,7000,Depreciation & Amortization,Corporate,P&L Activity,0.0384,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,7100,Interest Expense,Corporate,P&L Activity,0.0288,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-11-30,7200,Income Taxes,Corporate,P&L Activity,0.0408,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,1000,Cash & Cash Equivalents,Corporate,BS Snapshot,4,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,1100,Accounts Receivable,Corporate,BS Snapshot,2.4657534246575343,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,1200,Other Current Assets,Corporate,BS Snapshot,0.6,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,1500,"PP&E, Net",Corporate,BS Snapshot,2,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,2000,Accounts Payable,Corporate,BS Snapshot,-0.410958904109589,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,2100,Accrued Expenses,Corporate,BS Snapshot,-1.008,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,2200,Deferred Revenue,Corporate,BS Snapshot,-2,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,2500,Debt,Corporate,BS Snapshot,-2.5,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,3000,Equity,Corporate,BS Snapshot,-3.146794520547944,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,4000,Subscription Revenue,Sales,P&L Activity,-2.08,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,5000,Hosting & Service Delivery,Operations,P&L Activity,0.52,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,6100,Sales & Marketing,Sales & Marketing,P&L Activity,0.624,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,6200,Research & Development,Product & Engineering,P&L Activity,0.3744,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,6300,General & Administrative,Corporate,P&L Activity,0.312,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,7000,Depreciation & Amortization,Corporate,P&L Activity,0.0416,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,7100,Interest Expense,Corporate,P&L Activity,0.0312,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,7200,Income Taxes,Corporate,P&L Activity,0.0442,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,9001,Change in Accounts Receivable,Corporate,CF Activity,-0.3,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,9002,Change in Other Current Assets,Corporate,CF Activity,-0.1,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,9003,Change in Accounts Payable,Corporate,CF Activity,0.05,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,9004,Change in Accrued Expenses,Corporate,CF Activity,0.1,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,9005,Change in Deferred Revenue,Corporate,CF Activity,0.2,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,9006,Capital Expenditures,Corporate,CF Activity,-0.5,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,9007,Debt Repayment,Corporate,CF Activity,-0.4,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,9008,Dividends,Corporate,CF Activity,0,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+2026-12-31,9009,Beginning Cash,Corporate,CF Value,3.275,Synthetic ERP Export,FY2026_FULL_YEAR_DEMO
+

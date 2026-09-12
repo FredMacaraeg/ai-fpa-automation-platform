@@ -14,10 +14,10 @@ The design objective was not to make Excel "look like software." It was to build
 
 ## 60-Second Demo Flow
 
-1. Replace the sample ERP/GL-style CSV with the latest actuals export.
+1. Open the included full-year synthetic FY2026 reference feed, or replace it with a current ERP/GL-style export.
 2. Refresh the Power Query landing zone.
-3. Confirm **0 unmapped rows** and **READY** import status.
-4. Advance the **Close Through** month.
+3. Confirm **0 unmapped rows**, **READY** feed/import status, and an appropriate **Coverage Status**.
+4. Advance the **Simulation Cutoff** month.
 5. Review material Budget vs. Actual exceptions.
 6. See remaining months reforecast automatically.
 7. Review updated Revenue, EBITDA, liquidity, and earnings outlooks.
@@ -74,7 +74,10 @@ The application is designed so a successful refresh is not treated as sufficient
 
 - Source rows landed successfully
 - New GL accounts are mapped
-- Latest accounting period is present
+- Latest source period covers the simulation cutoff
+- Untagged future-period rows are blocked
+- Missing closed periods are blocked
+- Live-feed refresh timestamps are no more than 45 days old
 - Staging layer is ready
 - Balance Sheet balances
 - Cash Flow ending cash ties to the Balance Sheet
@@ -85,7 +88,7 @@ For example, **Unmapped Rows = 0** displays as green on the Control Center; one 
 
 ## Rolling Forecast Methodology
 
-The monthly rolling forecast separates closed periods from future periods using a **Close Through** control.
+The monthly rolling forecast separates closed periods from future periods using a **Simulation Cutoff** control. The included sample file contains a complete synthetic FY2026 dataset so annual outputs and multiple cutoff dates can be tested; months after the cutoff are explicitly treated as demonstration data, not as current reported actuals.
 
 For forecast months, the model uses current YTD performance to update the remainder of the year rather than simply copying the original budget. Key logic includes:
 
@@ -114,8 +117,9 @@ This architecture intentionally avoids asking AI to replace financial controls o
 
 ## Files
 
-- [`model/AI_FP&A_Three_Statement_Model_v1.5.1.xlsx`](model/AI_FP&A_Three_Statement_Model_v1.5.1.xlsx) - portfolio-release Excel application
-- [`sample-data/AI_FP&A_Actuals_Source_v1.5.csv`](sample-data/AI_FP&A_Actuals_Source_v1.5.csv) - synthetic ERP/GL-style actuals source
+- [`model/AI_FP&A_Three_Statement_Model_v1.6.xlsx`](model/AI_FP&A_Three_Statement_Model_v1.6.xlsx) - portfolio-release Excel application
+- [`sample-data/AI_FP&A_Actuals_Source_v1.6.csv`](sample-data/AI_FP&A_Actuals_Source_v1.6.csv) - full-year synthetic FY2026 ERP/GL-style source
+- [`power-query/qry_Actuals.m`](power-query/qry_Actuals.m) - version-controlled Power Query M source
 - [`documentation/FP&A_Automation_Case_Study.pdf`](documentation/FP&A_Automation_Case_Study.pdf) - concise project case study
 - [`RELEASE_NOTES.md`](RELEASE_NOTES.md) - development history and release notes
 
@@ -128,7 +132,7 @@ To test the refresh workflow in Excel Desktop:
 1. Download the workbook and sample CSV into the same local portfolio folder.
 2. Open `Power_Query_Control`.
 3. Update the `SourcePath` parameter to the local CSV path.
-4. Create the `qry_Actuals` Power Query using the included M code.
+4. Create the `qry_Actuals` Power Query using [`power-query/qry_Actuals.m`](power-query/qry_Actuals.m).
 5. Load the query to `PQ_Actuals!A5` as instructed in the workbook.
 6. Use **Refresh All** for subsequent source-file updates.
 
@@ -156,6 +160,7 @@ The project was built iteratively to mirror a real product-development cycle:
 - **v1.4** - application-style Control Center and operating workflow
 - **v1.5** - portfolio-release UX, documentation, and demo flow
 - **v1.5.1** - final usability and control-status polish
+- **v1.6** - data-context controls, safer zero-budget variance handling, streamlined Power Query guidance, and automated repository validation
 
 ## Skills Demonstrated
 
