@@ -119,7 +119,7 @@ This architecture intentionally avoids asking AI to replace financial controls o
 - [`documentation/FP&A_Automation_Case_Study.pdf`](documentation/FP&A_Automation_Case_Study.pdf) - concise project case study
 - [`RELEASE_NOTES.md`](RELEASE_NOTES.md) - development history and release notes
 
-## Running the Model
+- [`pricing-model/sample-pricing-sheet/`](pricing-model/sample-pricing-sheet/) - reusable interview pricing model with a quote builder, deal-desk guardrails, portfolio metrics, testing notes, and Apps Script automation\n\n## Running the Model
 
 The workbook opens with synthetic demonstration data already populated so reviewers can explore the model without configuring a local data connection.
 
