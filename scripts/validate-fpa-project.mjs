@@ -15,6 +15,7 @@ const requiredFiles = [
   "screenshots/planning-dashboard.png",
   "screenshots/power-query-control.png",
   "screenshots/variance-analysis.png",
+  ".github/workflows/fpa-project-quality.yml",
   "README.md",
   "RELEASE_NOTES.md",
 ];
@@ -107,6 +108,15 @@ if (fs.existsSync(queryPath)) {
     if (!query.includes(token)) fail(`Power Query file is missing required token: ${token}`);
   }
   pass("Power Query source contains the governed configuration and refresh steps");
+}
+
+const workflowPath = path.join(root, ".github/workflows/fpa-project-quality.yml");
+if (fs.existsSync(workflowPath)) {
+  const workflow = fs.readFileSync(workflowPath, "utf8");
+  for (const token of ["actions/checkout@v7", "actions/setup-node@v7", "node-version: 24", "package-manager-cache: false"]) {
+    if (!workflow.includes(token)) fail(`GitHub Actions workflow is missing current runtime setting: ${token}`);
+  }
+  if (!failures.some((item) => item.startsWith("GitHub Actions workflow"))) pass("GitHub Actions uses the current checkout, setup-node, and Node runtime versions");
 }
 
 function validateMarkdownLinks(relative) {
